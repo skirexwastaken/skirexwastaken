@@ -1,5 +1,4 @@
-<h1 align="center">Daniel</h1>
-<h3 align="center">A passionate backend developer from Czechia</h3>
+<h1 align="left">Daniel</h1>
 
 - 🔭 I’m currently working on **NumScript**
 
