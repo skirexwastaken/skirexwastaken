@@ -1,6 +1,6 @@
 <h1 align="left">Daniel</h1>
 
-- 🔭 I’m currently working on **NumScript**
+- 🔭 I’m currently working on **NumScript and MineJS**
 
 - 🌱 I’m currently learning **R and Bash**
 
